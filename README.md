@@ -1,2 +1,1 @@
-# docker-wordpress
-Used to setup test environment with Docker / Wordpress
+# docker-wordpress-workflow-demo
